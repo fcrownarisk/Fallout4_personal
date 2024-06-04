@@ -1,7 +1,7 @@
 import tkinter as tk
 from enum import Enum
 # 定义枚举类型
-ButtonType = tk.ENUM('Strength', 'Perspective','Endurance','Charisma', 'Intelligence', 'Agile', 'Luck', 'Seven')
+ButtonType = tk.ENUM('Strength', 'Perspective','Endurance','Charisma', 'Intelligence', 'Agile', 'Luck')
 # 创建主窗口
 root = tk
 # 创建按钮并放置在窗口中
