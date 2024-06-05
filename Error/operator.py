@@ -1,0 +1,12 @@
+def __add__(self, value):
+    self.value += value 
+def __sub__(self, value):
+    self.value -= value
+def __mul__(self, value):
+    self.value *= value
+def __truediv__(self, value):
+    self.value /= value
+def __floordiv__(self, value):
+    self.value //= value
+def __mod__(self, value):
+    self.value %= value    
