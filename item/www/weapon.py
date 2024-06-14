@@ -1,7 +1,7 @@
 import random
+import InventorySlot
 import InventorySlot.InventorySlot
 import InventorySlot.Slot_iii
-import InventorySlot
 import InventorySlot.InventorySlot_i
 weapon_types = ['melee','ranged','magic','light','highlight']
 prefix = ['most-used','advanced','low-energy','well-known','high-energy','master-piece']
